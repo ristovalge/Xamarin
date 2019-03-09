@@ -1,0 +1,12 @@
+https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/single-page?pivots=windows
+
+https://www.syncfusion.com/ võimalikud kohad valmis dll
+
+andmebaasid
+
+https://docs.microsoft.com/en-us/xamarin/android/data-cloud/data-access/using-sqlite-orm
+
+nuget
+sqlight-net-spi
+
+
