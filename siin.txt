@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/single-page?pivots=windows
 
 https://www.syncfusion.com/ võimalikud kohad valmis dll
@@ -10,3 +11,6 @@ nuget
 sqlight-net-spi
 
 
+=======
+https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/single-page?pivots=windows
+>>>>>>> 8b5bf5e42a506ea5cea10114802d9097d3400f33
